@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74579d4b.css",
+    "main.js": "/static/js/main.251f0fd0.js",
+    "static/js/668.9f6e809e.chunk.js": "/static/js/668.9f6e809e.chunk.js",
+    "static/media/icon_douyin.jpeg": "/static/media/icon_douyin.fbf64655ad98f0a33a78.jpeg",
+    "static/media/icon_bilibili.jpg": "/static/media/icon_bilibili.2117cc35d496e1045068.jpg",
+    "index.html": "/index.html",
+    "main.74579d4b.css.map": "/static/css/main.74579d4b.css.map",
+    "main.251f0fd0.js.map": "/static/js/main.251f0fd0.js.map",
+    "668.9f6e809e.chunk.js.map": "/static/js/668.9f6e809e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74579d4b.css",
+    "static/js/main.251f0fd0.js"
+  ]
+}
